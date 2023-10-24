@@ -5,7 +5,7 @@
 # 3.Loop through every letter in our alphabet string. If the current letter was found in our word, increase our count
 # 4.Return the count after looping through all letters.
 
-#My Solution
+#My SolutionTechnicaTechnica
 
 def unique_english_letters(word):
   letters = []
